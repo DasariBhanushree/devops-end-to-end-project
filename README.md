@@ -1,5 +1,3 @@
-# devops-end-to-end-project
-
 # DevOps End-to-End Project
 
 Tools Used:
@@ -17,4 +15,4 @@ Tools Used:
 - GitHub Copilot
 
 Goal:
-Learn complete DevOps workflow from code commit to production deployment.
+Learn the complete DevOps workflow from code commit to production deployment.
