@@ -1,5 +1,7 @@
 # DevOps End-to-End Project
 
+GitHub Actions CI/CD setup completed.
+
 Tools Used:
 - Git
 - GitHub
