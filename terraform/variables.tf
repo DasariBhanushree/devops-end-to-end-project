@@ -43,13 +43,13 @@ variable "cluster_version" {
 variable "node_instance_type" {
   type        = string
   description = "The instance type for EKS managed nodes"
-  default     = "t3.micro"
+  default     = "t3.small"
 }
 
 variable "desired_node_count" {
   type        = number
   description = "The desired number of nodes in the node group"
-  default     = 2
+  default     = 4
 }
 
 variable "min_node_count" {
