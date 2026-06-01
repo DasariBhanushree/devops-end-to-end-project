@@ -19,3 +19,11 @@ spec:
         image: 507675081677.dkr.ecr.us-east-1.amazonaws.com/flask-devops-app:latest
         ports:
         - containerPort: 5000
+        resources:
+          requests:
+            cpu: "100m"
+            memory: "128Mi"
+          limits:
+            cpu: "200m"
+            memory: "256Mi"
+
